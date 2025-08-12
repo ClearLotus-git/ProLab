@@ -166,4 +166,4 @@ cd /dev/shm && python3 -m http.server 80
 
 ---
 
-*These notes are for lab/education use only, matching the environment you controlled in this exercise.*
+*These notes are for lab/education use only, matching the environment controlled in this exercise.*
