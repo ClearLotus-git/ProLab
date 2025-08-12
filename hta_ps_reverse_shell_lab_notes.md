@@ -1,7 +1,7 @@
 # HTA → PowerShell Reverse Shell (Lab Notes)
 
 **Goal:** Obtain a shell on a Windows target with legacy Windows Defender (circa 2020) by delivering and executing a payload that bypasses static signatures.
-Can be used for intial shell.
+Can be used for initial shell.
 ---
 
 ## Environment & Constraints
